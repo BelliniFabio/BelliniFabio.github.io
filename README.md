@@ -1,5 +1,5 @@
 # shared_web_site
-Creation of a shared web site for cwd projects
+Creation of a shared web site for cwd projects.
 
 Ciao a tutte le new entry - semmai ce ne saranno - oltre a nik.
 
