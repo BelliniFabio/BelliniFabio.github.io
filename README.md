@@ -2,5 +2,5 @@
 Creation of shared web site
 
 
-be direi che cominciare con git non èrosea e fluida come cosa dio bel
+be direi che cominciare con git non è rosea e fluida come cosa dio bel
 
