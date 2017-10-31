@@ -1,5 +1,6 @@
 # shared_web_site
 Creation of shared web site
 
-ciao come stai cazzo se è brutta sta cosa di git hub
+be direi che cominciare con git non è rosea e fluida come cosa dio bel
+
 
